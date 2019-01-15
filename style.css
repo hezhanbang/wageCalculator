@@ -1,0 +1,38 @@
+body {
+    font-size: 14px;
+    margin: 0 auto 0 auto;
+    padding: 2px;
+    width: 800px;
+}
+
+pre {
+    white-space: pre-wrap;
+    tab-width: 4;
+    margin: 1px;
+    padding: 15px;
+    background-color: #dbd5d5;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 3px 0 0 0;
+    padding: 0;
+    color: #0c6575
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 16px;
+    margin: 3px 0 0 10px;
+    padding: 0;
+    color: #3d368e
+}
+
+div {
+    margin: 5px 5px 20px 5px;
+}
+
+span {
+    margin: 3px;
+}
