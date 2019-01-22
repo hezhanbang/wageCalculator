@@ -38,3 +38,7 @@ span {
 	padding: 0;
 	display: block;
 }
+
+.left {
+    text-align:right;
+}
