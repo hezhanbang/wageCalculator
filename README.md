@@ -1,3 +1,3 @@
 # chineseWageCalculator.github.io
 
-website: https://liyoubdu.github.io/chineseWageCalculator/
+website: https://liyoubdu.github.io/wageCalculator/
